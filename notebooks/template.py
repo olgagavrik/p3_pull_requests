@@ -123,7 +123,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
 modelo = LinearRegression()
 modelo.fit(X_train, y_train)
 ####################################################
-# Olga Gabrik. Pegar tu enlace aqui:
+# Olga Gavrik. Pegar tu enlace aqui:
 https://github.com/olgagavrik/Dominoolga/blob/main/Olga%20Gavrik.pdf
 ####################################################
 #################################
@@ -151,7 +151,7 @@ print("Precisión en prueba:", score_test)
 
 #######################################################
 #######################################################
-# Olga Gabrik.Pegar tu enlace aquí:
+# Olga Gavrik.Pegar tu enlace aquí:
 https://github.com/olgagavrik/Dominoolga/blob/main/Olga%20Gavrik.pdf
 #######################################################
 #################################
